@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
@@ -21,9 +22,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
