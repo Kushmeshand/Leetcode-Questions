@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
