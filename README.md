@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1162-as-far-from-land-as-possible](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1162-as-far-from-land-as-possible](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1162-as-far-from-land-as-possible) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1162-as-far-from-land-as-possible](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1162-as-far-from-land-as-possible) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0130-surrounded-regions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
