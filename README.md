@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1162-as-far-from-land-as-possible](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
