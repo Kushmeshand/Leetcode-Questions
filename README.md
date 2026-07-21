@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1288-remove-covered-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
