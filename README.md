@@ -243,5 +243,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
