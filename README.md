@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
