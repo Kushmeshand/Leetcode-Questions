@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
