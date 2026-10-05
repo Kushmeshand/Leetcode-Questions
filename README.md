@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -287,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
