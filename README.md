@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
