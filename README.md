@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
