@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
