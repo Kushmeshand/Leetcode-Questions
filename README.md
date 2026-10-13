@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0796-rotate-string) |
