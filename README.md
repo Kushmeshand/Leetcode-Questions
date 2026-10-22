@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0860-lemonade-change) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1288-remove-covered-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union-Find
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
