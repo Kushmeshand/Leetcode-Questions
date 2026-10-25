@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
