@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0796-rotate-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
