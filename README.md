@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1859-sorting-the-sentence](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1859-sorting-the-sentence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
