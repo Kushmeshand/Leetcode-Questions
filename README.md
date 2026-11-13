@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1859-sorting-the-sentence](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1859-sorting-the-sentence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -387,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
