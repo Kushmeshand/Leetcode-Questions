@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0860-lemonade-change) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0860-lemonade-change) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0846-hand-of-straights) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -318,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
