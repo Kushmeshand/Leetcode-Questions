@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0846-hand-of-straights) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0743-network-delay-time) |
@@ -415,4 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
