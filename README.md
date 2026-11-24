@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -424,5 +427,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0355-design-twitter) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Kushmeshand/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
